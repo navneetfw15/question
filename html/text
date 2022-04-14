@@ -1,0 +1,56 @@
+ans1------------
+You enter a URL into a web browser. The browser looks up the IP address for the domain name via DNS. The browser sends a HTTP request to the server. The server sends back a HTTP response.
+DNS translates domain names to IP addresses so browsers can load Internet resources.
+
+answer2----------------------
+Uniform Resource Locator(url)
+The four main components of URLs are the protocol, domain, path, and query.
+URL is an acronym for Uniform Resource Locator and is a reference (an address) to a resource on the Internet.A URL has two main components: Protocol identifier: For the URL http://next.com , the protocol identifier is http . Resource name: For the URL http://next.com , the resource name is next.com
+
+answer3---------------------------
+HTTP stands for Hypertext Transfer Protocol. It is used to access data on the WWW (World Wide Web). It is a protocol which governs the communication between the client and server. After a request is made, the client disconnects from the server and waits for a response.
+
+answer4--------------------------------
+
+TCP stands for Transmission Control Protocol a communications standard that enables application programs and computing devices to exchange messages over a network. It is designed to send packets across the internet and ensure the successful delivery of data and messages over networks.
+
+answer5-----------------------------
+The primary or most commonly-used HTTP methods are POST, GET, PUT, PATCH, and DELETE. These methods correspond to create, read, update, and delete (or CRUD) operations, respectively.
+
+
+answer6-------------------------------
+
+HTTP headers let the client and the server pass additional information with an HTTP request or response. 
+
+answer7--------------------------
+
+2xx successful – the request was successfully received, understood, and accepted. 3xx redirection – further action needs to be taken in order to complete the request. 4xx client error – the request contains bad syntax or cannot be fulfilled. 5xx server error – the server failed to fulfil an apparently valid request.
+
+answer8--------------------------------
+
+Cache-control is an HTTP header used to specify browser caching policies in both client requests and server responses.
+
+answer9------------------------
+
+Polling is the process where the computer or controlling device waits for an external device to check for its readiness or state, often with low-level hardware.
+
+answer10-----------------------
+
+HTTP Long Polling is a technique used to push information to a client as soon as possible on the server. As a result, the server does not have to wait for ...
+
+answer11--------------------------
+
+WebSocket is a bidirectional communication protocol that can send the data from the client to the server or from the server to the client by reusing the established connection channel. The connection is kept alive until terminated by either the client or the server.
+
+
+answer12---------------------------
+
+Unlike HTTP, where you have to constantly request updates, with websockets, updates are sent immediately when they are available. WebSockets keeps a single, persistent connection open while eliminating latency problems that arise with HTTP request/response-based methods.
+
+answer13----------------------------------
+
+HTTPS is a secure way to send data between a web server and a web browser.
+
+answer14---------------------------------
+
+CORS” stands for Cross-Origin Resource Sharing. It allows you to make requests from one website to another website in the browser, which is normally prohibited by another browser policy called the Same-Origin Policy (SOP)
