@@ -1,0 +1,57 @@
+answer----------
+comment in CSS, simply place your plain text inside /* */ marks. 
+
+answer2----------
+
+A pseudo-class is used to define a special state of an element.
+
+answer3----------
+
+Think of specificity as a score/rank that determines which style declaration are ultimately applied to an element.
+
+answer 6--------
+
+flexbox was designed for layout in one dimension - either a row or a column. Grid was designed for two-dimensional layout - rows, and columns at the same time.
+
+answer 5---------
+
+The flex property sets the flexible length on flexible items
+
+answer 6-----
+
+If you are using flexbox and find yourself disabling some of the flexibility, you probably need to use CSS Grid Layout. An example would be if you are setting a percentage width on a flex item to make it line up with other items in a row above. In that case, a grid is likely to be a better choice
+
+answer 7--
+
+The final selectors we will look at are called combinators, because they combine other selectors in a way that gives them a useful relationship to each other and the location of content in the document.
+
+anwer 8---
+
+The object-fit CSS property sets how the content of a replaced element, such as an <img> or <video> , should be resized to fit its container
+
+answer 9---
+
+The rotate() CSS function defines a transformation that rotates an element around a fixed point on the 2D plane, without deforming it. 
+
+answer12
+
+------
+
+CSS animations make it possible to animate transitions from one CSS style configuration to another. Animations consist of two components, ...
+
+answer 13------
+
+The [attribute|="value"] selector is used to select elements with the specified attribute, whose value can be exactly the specified value, or the specified value followed by a hyphen (-).
+
+
+answer 14-------
+
+Media queries can be used to check many things, such as: width and height of the viewport. width and height of the device.
+
+answer 17----
+
+Element and pseudo-element selectors have the lowest specificity. In the specificity weight system, they have a value of 1
+
+last answer--
+
+position: relative places an element relative to its current position without changing the layout around it, whereas position: absolute places an element relative to its parent's position and changing the layout around it.
